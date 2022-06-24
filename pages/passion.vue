@@ -2,7 +2,7 @@
   <div class="container d-md-flex align-items-stretch ">
     <div class="pt-2" style="background-color: ">
 
-      <h1 style="font-size: 1.5em; margin-top: 7px; ">Passion for Pianos</h1>
+      <h1>Passion for Pianos</h1>
       <Div style="">
       I love pianos! I love playing the piano! My passion and love spilled over and because of that I began teaching piano (now retired) for 25 years. I’ve witnessed how this magnificent creature has changed so many people's lives and the joy it brought to them and to their families. It was amazing to watch at times. Miracles even happened.
 
@@ -30,11 +30,11 @@
 
 </template>
 <style>
-  .topnav a.passion{
-    border-bottom: 1px solid white;
-    padding-bottom: 2px;
-  }
+.topnav a.passion{
+  color: #eee8dc;
+  text-decoration: underline;
 
+}
 
 
 </style>

@@ -7,8 +7,8 @@
         <div>
           <p><strong>JD Kohler, Piano Tuner-Technician<br>
             Dusty Rose Piano<br>Clinton, UT 84015<br></strong><BR/>
-            dustyrosepiano@outlook.com<BR/>
-            (360) 632-4380 text + call<BR/>
+            <span class="hover">dustyrosepiano@outlook.com</span><BR/>
+            <span class="hover">(360) 632-4380</span> text + call<BR/>
             <BR/>
             Serving All of Northern Utah
           </p>
@@ -18,10 +18,11 @@
 </div>
 </template>
 <style>
-  .topnav a.contact{
-    border-bottom: 1px solid white;
-    padding-bottom: 2px;
-  }
+.topnav a.contact{
+  color: #eee8dc;
+  text-decoration: underline;
+
+}
 </style>
 <script>
 export default {

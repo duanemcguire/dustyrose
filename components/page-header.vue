@@ -5,7 +5,10 @@
       <a style="border: none" href="/"><img style="max-width: 100%; margin-top: 10px;" alt="Dusty Rose Piano" src="/images/logo-name-750.png"></a>
     </div>
   </div>
-  <topnav  />
-
+  <div>
+    <hr style="margin: 0px;" />
+    <topnav  />
+    <hr style="margin: 0px;" />&nbsp;
+    </div>
 </div>
 </template>

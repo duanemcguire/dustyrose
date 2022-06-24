@@ -2,7 +2,7 @@
   <div class="container d-md-flex align-items-stretch ">
     <div class="pt-2" style="background-color: ">
 
-        <h1 style="font-size: 1.5em; margin-top: 7px; ">About Me</h1>
+        <h1 >About Me</h1>
         <p style="">
 
       My name is JD Kohler—I am a Piano Technician with a love for pianos.
@@ -23,10 +23,11 @@
 
 </template>
 <style>
-  .topnav a.about{
-    border-bottom: 1px solid white;
-    padding-bottom: 2px;
-  }
+.topnav a.about{
+  color: #eee8dc;
+  text-decoration: underline;
+
+}
 </style>
 <script>
 export default {
