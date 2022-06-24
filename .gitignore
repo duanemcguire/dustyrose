@@ -1,4 +1,4 @@
-nuxt.config.js
+#nuxt.config.js
 # Logs
 logs
 *.log
