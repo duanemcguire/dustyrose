@@ -2,16 +2,16 @@
   <div  id="sidebar" class=" container  pt-5 mt-2 ml-4">
 
      <section>
-        <div ><img style="max-width: 100%"  alt="photo of JD Kohler" itemprop="image"  src="/images/JDKohler-tuning-piano.jpg"  ><br/>
+        <div ><img style="max-width: 100%"  alt="photo of JD Kohler" itemprop="image"  src="/images/JDKohler-tuning-piano-crop.jpg"  ><br/>
         JD Kohler<BR/>
         Piano Tuner-Technician
       </div>
-      <HR/>
+      <BR/>
       <div>
-        Appointments:<BR/>
-        <p><a style="font-weight: normal;" href="/schedule">Schedule Online</a></p>
-        <p>Call/Text (360) 632-4380</p>
-        <p>dustyrosepiano@outlook.com</p>
+        <h4 style="margin-bottom:0px;">Appointments</h4><HR style="margin-top: 0px;"></hr>
+        <p><a href="/schedule">Schedule Online</a></p>
+        <p>Call/Text <span class="hover">(360) 632-4380</span></p>
+        <p><span class="hover">dustyrosepiano@outlook.com</span></p>
       </div>
       </section>
       <section>
@@ -20,10 +20,12 @@
             Member<BR/>
            <img style="max-width: 100%;" alt="PTG logo" src="/images/PianoTechGuild_TRANS.png" ><BR/>
            <hr/>
-           <a style="border: none;" href="https://www.facebook.com/DustyRosePiano"><img style="max-width: 100%; " alt="facebook link" src="/images/FindUs-FB-RGB-1067.png"></a>
+           <div style="text-align: right">
+             <a style="border: none; " href="https://www.facebook.com/DustyRosePiano"><img style="width: 20%; " title="Find us on Facebook" alt="facebook link" src="/images/fb.png"></a>
+           </div>
           </div>
      </section>
-
+  <BR/><BR/><BR/>
   </div>
 </template>
 <style>

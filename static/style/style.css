@@ -43,30 +43,49 @@ video {
   color: #eee8dc;
 
 }
-.topnav a {
-  color: #eee8dc;
-  font-weight: bold;
-  padding-right: 3px;
-  padding-left: 3px;
-  border-bottom: none;
-}
 
 a {
   color: #eee8dc;
-  font-weight: bold;
   padding-right: 3px;
   padding-left: 3px;
   border-bottom: 1px solid white;
   padding-bottom: 2px;
+  text-decoration: none;
 
 }
 a:hover {
-  border-bottom: 1px solid white;
-  padding-bottom: 2px;
+  color: #d7ada2;
+  text-decoration: none;
+  font-weight: normal;
+}
+.topnav a {
+  color: #d7ada2;
+  padding-right: 3px;
+  padding-left: 3px;
+  text-decoration: none;
+  border-bottom: none;
+}
+.topnav a:hover {
+  text-decoration: underline;
+  font-weight: normal;
   color: #eee8dc;
-  text-decoration:none;
-  font-weight: bold;
+
 }
 #sidebar {
   #background-color: #E19B9F;
+}
+hr { border-top: 1px solid #d7ada2}
+
+body {
+  background-color: #44515a;
+  font-family: franklin-gothic-compressed, arial, sans-serif;
+  font-size: 1.2em;
+}
+h1,h2,h3,h4 {
+  font-family: meno-banner, times, serif;
+}
+
+span.hover:hover {
+  color: #d7ada2;
+  cursor: pointer;
 }
