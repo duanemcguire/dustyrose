@@ -2,7 +2,7 @@
   <div class="container d-md-flex align-items-stretch ">
     <div class="pt-2" style="background-color: ">
 
-      <h1 >JD Kohler, Piano Tuner-Technician</h1>
+      <h1>JD Kohler, Piano Tuner-Technician</h1>
       <p>Pianos are my life, and no day is complete without playing.
         I tune and maintain pianos, so that each customer may find the joy in their piano that I find in mine.
       </p>
