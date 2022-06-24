@@ -17,7 +17,6 @@ export default {
     { rel: "stylesheet", type: "text/css", href: "/style/style.css" },
     { rel: "alternate", type: "application/rss+xml", href: "https://dustyrosepiano.com/rss.xml" },
     { rel: "stylesheet", type: "text/css", href: "https://use.typekit.net/aum3pte.css"},
-
     ],
   },
   target: 'static',
