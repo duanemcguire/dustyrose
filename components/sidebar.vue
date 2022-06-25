@@ -4,7 +4,8 @@
      <section>
         <div ><img style="max-width: 100%"  alt="photo of JD Kohler" itemprop="image"  src="/images/JDKohler-tuning-piano-crop.jpg"  ><br/>
         JD Kohler<BR/>
-        Piano Tuner-Technician
+        Piano Tuner-Technician<BR/>
+        Serving Northern Utah
       </div>
       <BR/>
       <div>
