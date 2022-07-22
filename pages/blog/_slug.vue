@@ -36,7 +36,6 @@ export default {
   }) {
     const blog = await $content('blog', params.slug).fetch()
     console.log(blog.body)
-    const categories = await $content('categories').fetch()
     const blogs = await $content('blog')
       .only(['date'])
       .fetch()
@@ -63,28 +62,6 @@ export default {
     var d = new Date(blog.date + " 12:00:00")
     blog.displayDate = months[d.getMonth()] + ' ' + d.getDate().toString() + ', ' + d.getFullYear().toString()
 
-    // Category extract
-    var catName = ""
-    var catNames = []
-    var catArray = []
-    if (blog.hasOwnProperty('category') && Array.isArray(blog.category)) {
-      blog.category.forEach((cat) => {
-        catName = categories
-          .filter(item => item.slug === cat)
-          .map(item => item.name)[0]
-        catNames.push(catName)
-        catArray.push([cat, catName])
-      })
-    }
-    if (!blog.hasOwnProperty('canonical')) {
-      blog.canonical = "https://blog.duanemcguire.com/blog/" + blog.slug
-    }
-    catNames = catNames.toString().replace(",", ", ")
-    if (catNames == '') catNames = "Uncategorized"
-
-    // check for media
-    var mediaPresent = false
-    mediaPresent = blog.hasOwnProperty('media')
 
     // establish previous and next
     const [prev, next] = await $content('blog')
@@ -117,12 +94,8 @@ export default {
 
     return {
       blog,
-      mediaPresent,
       prev,
       next,
-      catNames,
-      catArray,
-      categories,
       allYears,
       photoset
     }
