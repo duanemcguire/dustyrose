@@ -38,10 +38,6 @@ export default {
     blogs.forEach(function(item){
       allIDs.push(item.id)
     })
-    const categories = await $content('categories')
-      .sortBy('name', 'asc')
-      .fetch()
-
       var blogYears = await $content('blog')
           .only('date')
           .fetch()
@@ -61,7 +57,6 @@ export default {
 
     return {
       blogs,
-      categories,
       allYears,
       allIDs
     }
