@@ -59,16 +59,17 @@ export default {
       if (this.blog.hasOwnProperty('photoset') ) {
         this.blog.photoset.forEach(function(item){
           if('thumbnail' in item){
-            thumbnail = item.path
-            var tArr = thumbnail.split('/')
-            var fn = tArr[tArr.length-1]
-            thumbnail = '/images/thumb/' + fn
+            if(item['thumbnail'] == 'True'){
+              thumbnail = item.path
+              var tArr = thumbnail.split('/')
+              var fn = tArr[tArr.length-1]
+              thumbnail = '/images/thumb/' + fn
+            }
           }
         })
 
       }
     }
-
 
 
     return {
