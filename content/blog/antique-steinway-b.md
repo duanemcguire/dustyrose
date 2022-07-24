@@ -1,7 +1,6 @@
 ---
 title: "Antique Steinway B"
 date: "2022-06-08"
-category: 
 id: 1658577478
 photoset: [{"path": "/images/99Wy7dJinSA3WEstHAV3x7.jpg", "caption": "", "thumbnail": "True"}]
 ---
