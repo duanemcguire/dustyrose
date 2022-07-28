@@ -2,6 +2,7 @@
 title: "Your heart plays the piece"
 date: "2022-06-08"
 id: 1658577352
-photoset: [{"path": "/images/gciwf7i2z3MLrmfyXY4FcP.jpg", "caption": "", "thumbnail": "True"}]
+path: content/blog/your-heart-plays-the-piece.md
+photoset: [{"path": "/images/gciwf7i2z3MLrmfyXY4FcP.jpg", "caption": "", "thumbnail": "True"}, {"path": "/images/dqDTCbcR6Eoeb66L4uuaR3.jpeg", "caption": "Steed Pond ", "thumbnail": "False"}]
 ---
 So very true.
