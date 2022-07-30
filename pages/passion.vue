@@ -8,7 +8,7 @@
 
   Over the years I have been asked countless times, “What got you started? How old were you when you began? What made you fall in love with playing the piano? Were you influenced by anyone?” When I think back to my earlier years, and being only 11 when I first started lessons- I just… Smile!
 <BR/><BR/>
-<div style="float: left; margin-right: 10px; margin-bottom: 10px;" ><img src="/images/david-holifield-NmyoGwkl-Tg-unsplash.jpg" style="max-width: 450px;" /></div>
+<div style="float: left; margin-right: 10px; margin-bottom: 10px;" ><img src="/images/david-holifield-NmyoGwkl-Tg-unsplash.jpg" style="max-width: 90vw;" /></div>
 
   My deep interest in this elegant musical instrument started when I was very young. I remember that old Spinet piano sitting in my mothers living room, with the green wallpaper in the background, and all her musical books and sheet music spread across it. My mother was the strongest example who demonstrated a deep love and passion for the piano. She would play all of the time; especially during Christmas. My brothers and I would sing with her at times, and it was a very happy and special moment for me. She brought the love and joy for music and the piano into our home! Because of my mother's ongoing support, she showed me over the years to pursue the piano,
 I dedicated and named my piano business in her honor. Although she has passed away, I can still see and hear her say, "Breaker, Breaker, 1-9 this is Dusty Rose.......over!"
