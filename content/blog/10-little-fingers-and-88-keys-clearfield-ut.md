@@ -1,5 +1,5 @@
 ---
-title: "10 little fingers and 88 keys, Clearfield, UT"
+title: "10 little fingers and 88 keys in Clearfield, UT"
 date: "2022-07-23"
 id: 1659763785
 path: content/blog/10-little-fingers-and-88-keys-clearfield-ut.md
