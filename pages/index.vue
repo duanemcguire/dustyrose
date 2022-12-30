@@ -9,7 +9,7 @@
         <p>
         How's your piano sounding?  Does it need a little help?   <a href="/schedule">Schedule your piano tuning</a> today and
         fall in love with your piano again.
-        Basic tuning services start at just $100. My primary service areas are Davis and Weber counties in Utah. 
+        Basic tuning services start at just $110. My primary service areas are Davis and Weber counties in Utah. 
 
       </p>
       <div style="text-align: center; ">
