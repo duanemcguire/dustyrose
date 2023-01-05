@@ -1,7 +1,8 @@
 ---
 title: "Decembers Holiday tuning"
-date: "2023-01-05"
+date: "2022-12-02"
 id: 1672899990
-photoset: [{"path": "/images/8YnxwofLyaEjNC4q6SbTu8.jpeg", "caption": "", "thumbnail": "True"}]
+path: content/blog/decembers-holiday-tuning.md
+photoset: []
 ---
-Starting off the holiday season with a tuning,  this gorgeous Kawai Piano Console took me to Bountiful, UT.  
+Starting off the holiday season with a tuning,  this gorgeous Kawai Piano Console took me to Bountiful, UT.
