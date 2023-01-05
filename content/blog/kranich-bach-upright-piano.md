@@ -5,4 +5,4 @@ id: 1672901312
 path: content/blog/kranich-bach-upright-piano.md
 photoset: [{"path": "/images/Htuv7GgLJnhQYjn84te42B.jpeg", "caption": "", "thumbnail": "True"}]
 ---
-An oldie, but a goodie! What a fabulous sound after a much needed tuning! Just in time for Christmas! Goosebumps when played!
+An oldie, but a goodie in good ole’ Morgan, UT! What a fabulous sound after a long awaited tuning! Just in time for Christmas! Goosebumps when played!
