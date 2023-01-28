@@ -1,0 +1,7 @@
+---
+title: "Syracuse Arts Academy"
+date: "2023-01-28"
+id: 1674928302
+photoset: [{"path": "/images/QTK7Zsj79TKoh9SbMarYX8.jpeg", "caption": "Auditorium Console piano", "thumbnail": "True"}]
+---
+I had a wonderful opportunity tuning for SAA in Syracuse, UT. Many performances for their choir are performed here. The staff are most kind and gracious here! What a fantastic school! 
