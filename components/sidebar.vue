@@ -20,10 +20,7 @@
           <div>
             Member<BR/>
            <img style="max-width: 100%;" alt="PTG logo" src="/images/PianoTechGuild_TRANS.png" ><BR/>
-           <hr/>
-           <div style="text-align: right">
-             <a style="border: none; " href="https://www.facebook.com/DustyRosePiano"><img style="width: 20%; " title="Find us on Facebook" alt="facebook link" src="/images/fb.png"></a>
-           </div>
+
           </div>
      </section>
   <BR/><BR/><BR/>
