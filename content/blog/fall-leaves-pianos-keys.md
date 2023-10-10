@@ -1,6 +1,6 @@
 ---
 title: "Fall leaves & pianos keys"
-date: "2023-01-10"
+date: "2023-10-01"
 id: 1696975550
 path: content/blog/fall-leaves-pianos-keys.md
 photoset: [{"path": "/images/AbhQSTAFBWme77xH6eHLMX.jpeg", "caption": "Lost in Music- Clinton, UT", "thumbnail": "True"}]
