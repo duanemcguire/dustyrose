@@ -1,5 +1,5 @@
 ---
-title: "Ace up Your Self- PTG Convention"
+title: "Ace up Your Sleeve- PTG Convention"
 date: "2024-07-24"
 id: 1721842083
 path: content/blog/ace-up-your-self-ptg-convention.md
