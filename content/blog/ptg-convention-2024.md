@@ -1,0 +1,7 @@
+---
+title: "PTG CONVENTION 2024"
+date: "2024-07-24"
+id: 1721840635
+photoset: [{"path": "/images/Ddu8paqyJhNPkDkxWi69NC.jpeg", "caption": "", "thumbnail": "True"}]
+---
+Every year the PTG (Piano Technician Guild) holds its nationwide week long conference. This wonderful training opportunity helps all that attend to better their skills, learn different techniques, and embraces the piano technician trade. I attended this year’s training conference in Reno, NV and attended many training classes. What brilliant instructors and knowledge that was given to me!  I devoured all that I learned and what I was exposed to. I also met wonderful people throughout the nation in many different states, and in several different countries. I had a remarkable time overall! Looking forward to next year’s convention. 
