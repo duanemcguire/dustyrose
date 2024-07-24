@@ -2,6 +2,7 @@
 title: "A little hiatus….. but I’m back! "
 date: "2024-07-23"
 id: 1721842832
+path: content/blog/a-little-hiatus-but-im-back.md
 photoset: [{"path": "/images/PnwrF2J7n7B89Wz9de3rHL.jpeg", "caption": "Izzy-cat\u2764\ufe0f", "thumbnail": "True"}]
 ---
 If you’ve scrolled thru my piano adventures/blogs you’ve probably noticed I have not been around for awhile. At all. Since last October 2023! Yep, it’s been a little quiet on the piano “blogging frontline’s!”
