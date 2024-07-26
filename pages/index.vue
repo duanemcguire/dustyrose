@@ -2,18 +2,13 @@
   <div class="container d-md-flex align-items-stretch ">
     <div class="pt-2" style="background-color: ">
 
-      <h1>JD Kohler, Piano Tuner-Technician</h1>
-      <p>Pianos are my life, and no day is complete without playing.
-        I tune and maintain pianos, so that each customer may find the joy in their piano that I find in mine.
-      </p>
-        <p>
-        How's your piano sounding?  Does it need a little help?   <a href="/schedule">Schedule your piano tuning</a> today and
-        fall in love with your piano again.
-        Basic tuning services start at just $125. My primary service areas are Davis and Weber counties in Utah. Service outside of Davis and Weber counties will incur an additional fee for travel. 
+      <h1>{{content.title}}</h1>
+      <div>
+      <nuxt-content :document="content" />
+      </div>
 
-      </p>
       <div style="text-align: center; ">
-        <img id="dusty-rose-piano" style="max-width: 60%; " src="/images/dusty-rose-piano.png" />
+        <img id="dusty-rose-piano" style="max-width: 60%; " :src=content.image />
       </div>
     </div>
     <sidebar />
@@ -35,6 +30,17 @@
 </style>
 <script>
 export default {
+  async asyncData({
+    $content,
+    params
+  }) 
+  {const content= await $content('misc', 'home').fetch()
+   
+    return {
+      content
+    }
+  },
+
   head() {
     return {
       title: 'Dusty Rose Piano',

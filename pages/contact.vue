@@ -2,17 +2,12 @@
 <div >
   <div class="container d-md-flex align-items-stretch ">
     <div style="width: 100%">
-        <h1>Contact</h1>
-        <BR/><BR/>
-        <div>
-          <p><strong>JD Kohler, Piano Tuner-Technician<br>
-            Dusty Rose Piano<br>Clinton, UT 84015<br></strong><BR/>
-            <span class="hover">dustyrosepiano@outlook.com</span><BR/>
-            <span class="hover">(360) 632-4380</span> text + call<BR/>
-            <BR/>
-            Serving All of Northern Utah
-          </p>
-        </div>
+
+    <h1 >{{content.title}}</h1>
+
+      <nuxt-content :document="content" />
+
+
     </div>
   </div>
 </div>
@@ -26,6 +21,18 @@
 </style>
 <script>
 export default {
+  async asyncData({
+    $content,
+    params
+  }) 
+  {const content= await $content('misc', 'contact').fetch()
+   
+    return {
+      content
+    }
+  },
+
+
   head() {
     return {
        title: 'Dusty Rose Piano Contact Information',
