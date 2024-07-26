@@ -1,5 +1,5 @@
 ---
-path: content/misc/about.md
+title: About Me
 ---
 My name is JD Kohler—I am a Piano Technician with a love for pianos. I’m located in Clinton, Utah and strongly welcome the adventures of traveling throughout Northern Utah to tune pianos for others.
 
