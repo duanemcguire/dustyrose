@@ -1,5 +1,6 @@
 ---
-title: Passion for Pianos Section 2
+title: "Passion for Pianos Section 2"
+path: content/misc/passion2.md
 ---
 My deep interest in this elegant musical instrument started when I was very young. I remember that old Spinet piano sitting in my mothers living room, with the green wallpaper in the background, and all her musical books and sheet music spread across it. My mother was the strongest example who demonstrated a deep love and passion for the piano. She would play all of the time; especially during Christmas. My brothers and I would sing with her at times, and it was a very happy and special moment for me. She brought the love and joy for music and the piano into our home! Because of my mother's ongoing support, she showed me over the years to pursue the piano, I dedicated and named my piano business in her honor. Although she has passed away, I can still see and hear her say, "Breaker, Breaker, 1-9 this is Dusty Rose.......over!" The name "Dusty Rose" was my mother's CB handle back in the day. She was quite proud of it!
 
@@ -15,4 +16,4 @@ As I press forward in this new journey of mine with the “mystery” solved, my
 
 Fall in love with your piano!
 
--- You can’t go wrong -- 
+-- You can’t go wrong --
