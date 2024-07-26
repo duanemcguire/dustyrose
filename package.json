@@ -16,7 +16,7 @@
     "bootstrap": "^4.5.2",
     "bootstrap-vue": "^2.17.3",
     "core-js": "^3.6.5",
-    "nuxt": "^2.14.7",
+    "nuxt": "^3.12.4",
     "nuxt-responsive-loader": "^2.0.1",
     "vue-carousel": "^0.18.0",
     "vue-image-lightbox": "^7.2.0",
