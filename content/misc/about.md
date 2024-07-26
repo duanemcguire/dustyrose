@@ -10,4 +10,4 @@ Having lived a military life and raised a family, I have taught piano to all age
 
 Now retired as a piano teacher, I pursued my love for pianos even further and studied to become a piano technician; I am passionate about giving the best service to all pianos.
 
-Contact me today to discover how I can help you!!
+Contact me today to discover how I can help you!
